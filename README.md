@@ -105,19 +105,25 @@ chatbot-concept-bank-polska/
 ------------
 ☁️ Wdrożenie na platformie AWS w skrócie:
 
-Stwórz bucket S3 i skonfiguruj go do hostowania statycznej strony internetowej.
+1. Stwórz bucket S3, przygotuj pliki backendu i wgraj je do bucketu.
 
-Wgraj pliki frontendu do bucketa S3.
+2. Złóż wniosek o dostęp do potrzebnych modeli językowych AWS
 
-Stwórz funkcje AWS Lambda używając Pythona jako środowiska uruchomieniowego i wgraj kod.
+3. Stwórz potrzebne funkcje AWS Lambda używając Pythona jako środowiska uruchomieniowego.
 
-Skonfiguruj rolę IAM dla funkcji Lambda, nadając jej uprawnienia do wywoływania modeli w usłudze Amazon Bedrock.
+4. Wgraj kody oraz przeprowadź ich testy (sprawdź logi w Amazon CloudWatch)
 
-Stwórz bazę wiedzy w Amazon Bedrock, wskazując jako źródło danych bucket S3 zawierający dokumenty .txt.
+5. Skonfiguruj rolę IAM dla funkcji Lambda, nadając jej uprawnienia do wywoływania modeli w usłudze Amazon Bedrock.
 
-Stwórz API Gateway (np. HTTP API) i skonfiguruj integrację z wcześniej utworzoną funkcją Lambda.
+6. Stwórz bazę wiedzy w Amazon Bedrock, wskazując jako źródło danych bucket S3 zawierający dokumenty .txt.
 
-W pliku index.html zaktualizuj adres URL punktu końcowego, aby wskazywał na Twoje API Gateway.
+7. Stwórz bucket S3 frontendu i skonfiguruj go do hostowania statycznej strony internetowej.
+
+8. Przygotuj i prześlij pliki frontedu (index.html, logo, pliki pdf)
+
+9. Stwórz API Gateway (np. HTTP API) i skonfiguruj integrację z wcześniej utworzoną funkcją Lambda.
+
+10. W pliku index.html zaktualizuj adres URL punktu końcowego, aby wskazywał na Twoje API Gateway.
 
 ------------
 📌 Przykład użycia:
@@ -140,4 +146,5 @@ Poczekaj chwilę na odpowiedź. Chatbot przeanalizuje Twoje pytanie i wygeneruje
 
 Amazon Web Services:
 S3, Lambda, Amazon, Bedrock, API Gateway, Claude 3 Sonnet, Titan Text Embeddings V2
+
 Google Gemini 2.5 Pro

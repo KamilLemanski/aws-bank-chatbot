@@ -7,7 +7,9 @@ Chatbot Concept Bank Polska to chatbot AI, który udziela odpowiedzi na pytania 
 Celem projektu było stworzenie w pełni funkcjonalnego, opartego na dokumentacji, centrum obsługi klienta dostępnego 24/7.
 Chatbot został w pełni wykonany z narzędzi Amazon Web Services: S3, AWS Lambda, Amazon Berdock, API Gateway, Claude 3 Sonnet i Titan Text Embeddings V2.
 
+------------
 ✨ Właściwości:
+
 🗣️ Konwersacyjne AI (chatbot rozumie i odpowiada na pytania zadawane językiem naturalnym)
 
 📚 Odpowiedzi oparte na wiedzy (wszystkie odpowiedzi generowane są na podstawie załączonych dokumentów banku: regulaminu, oferty kont osobistych oraz FAQ)
@@ -20,6 +22,7 @@ Chatbot został w pełni wykonany z narzędzi Amazon Web Services: S3, AWS Lambd
 
 🔒 Bezpieczeństwo i prywatność (interakcje z chatbotem są przetwarzane w bezpiecznym środowisku AWS)
 
+------------
 🧪 Zastosowane technologie:
 Amazon S3: Hosting statycznej strony internetowej (frontend) oraz przechowywanie dokumentów bazowych dla AI.
 
@@ -37,6 +40,7 @@ Frontend: HTML, CSS, JavaScript.
 
 Google Gemini 2.5 Pro: do stworzenia grafiki logo banku.
 
+------------
 🧠 Architektura Aplikacji:
 Aplikacja działa w modelu serwerless, gdzie poszczególne usługi AWS odpowiadają za konkretne zadania, tworząc spójny i wydajny system RAG (Retrieval-Augmented Generation).
 
@@ -50,10 +54,14 @@ Generowanie odpowiedzi (Amazon Bedrock: Claude 3 Sonnet, Titan Text Embeddings V
 
 Zwrot odpowiedzi: Wygenerowana odpowiedź jest zwracana przez API Gateway do frontendu i wyświetlana użytkownikowi w oknie czatu.
 
+------------
 👉 Uruchomienie aplikacji online:
+
 https://cbp-strona-chatbot-us.s3.us-east-1.amazonaws.com/index.html
 
+------------
 📂 Struktura plików:
+
 chatbot-concept-bank-polska/
 ├── cbp-chatbot-data-us/       # Bucket S3 na dane przetwarzane przez AI         
 │   ├── CBP_chunks_all.json    # Plik z dokumentacją banku podzieloną na małe fragmenty (chunki)
@@ -75,7 +83,9 @@ chatbot-concept-bank-polska/
     ├── CBP_logo.png            # Plik z logo banku wykorzystany na stronie
     └── index.html              # Główny plik HTML interfejsu użytkownika
 
+------------
 ☁️ Wdrożenie na platformie AWS w skrócie:
+
 Stwórz bucket S3 i skonfiguruj go do hostowania statycznej strony internetowej.
 
 Wgraj pliki frontendu do bucketa S3.
@@ -90,7 +100,9 @@ Stwórz API Gateway (np. HTTP API) i skonfiguruj integrację z wcześniej utworz
 
 W pliku index.html zaktualizuj adres URL punktu końcowego, aby wskazywał na Twoje API Gateway.
 
+------------
 📌 Przykład użycia:
+
 Otwórz aplikację, klikając w link: https://cbp-strona-chatbot-us.s3.us-east-1.amazonaws.com/index.html.
 
 W oknie czatu na dole ekranu wpisz pytanie dotyczące oferty Concept Bank Polska, np. "Jakie są opłaty za konto Concept Plus?".
@@ -99,9 +111,11 @@ Naciśnij klawisz Enter lub kliknij ikonę wysyłania.
 
 Poczekaj chwilę na odpowiedź. Chatbot przeanalizuje Twoje pytanie i wygeneruje odpowiedź na podstawie załączonej dokumentacji bankowej.
 
+------------
 📝 Licencja:
 © 2025 Kamil Lemański. Projekt stworzony w celach edukacyjnych i demonstracyjnych.
 
+------------
 🙏 Credits:
 Amazon Web Services:
 S3, Lambda, Amazon, Bedrock, API Gateway, Claude 3 Sonnet, Titan Text Embeddings V2

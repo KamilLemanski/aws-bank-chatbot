@@ -70,52 +70,40 @@ https://cbp-strona-chatbot-us.s3.us-east-1.amazonaws.com/index.html
 📂 Struktura plików:
 
 chatbot-concept-bank-polska/
-<br>
-<br>
-<br>
 
 cbp-chatbot-data-us/        # Bucket S3 na dane przetwarzane przez AI
 
-CBP_chunks_all.json             # Plik z dokumentacją banku podzieloną na małe fragmenty (chunki)
+├── CBP_chunks_all.json             # Plik z dokumentacją banku podzieloną na małe fragmenty (chunki)
 
-CBP_chunks+embedded.json             # Chunks z dodanymi do nich wektorami numerycznymi (embeddings)
+├── CBP_chunks+embedded.json             # Chunks z dodanymi do nich wektorami numerycznymi (embeddings)
 
-CBP_FAQ.txt             # Wersja tekstowa dokumentu FAQ do przetwarzania
+├── CBP_FAQ.txt             # Wersja tekstowa dokumentu FAQ do przetwarzania
 
-CBP_Oferta_kont_Osobistych.txt             # Wersja tekstowa oferty do przetwarzania
+├── CBP_Oferta_kont_Osobistych.txt             # Wersja tekstowa oferty do przetwarzania
 
-CBP_Regulamin.txt             # Wersja tekstowa regulaminu do przetwarzania
-<br>
-<br>
-<br>
+├── CBP_Regulamin.txt             # Wersja tekstowa regulaminu do przetwarzania
 
 lambda/
 
-GenerateCBPEmbeddings.py # Skrypt do generowania wektorów (embeddings) z chunków tekstowych
+├── GenerateCBPEmbeddings.py # Skrypt do generowania wektorów (embeddings) z chunków tekstowych
 
-CBPChatbotFileLoader.py # Skrypt do ładowania i wstępnego przetwarzania plików źródłowych
+├── CBPChatbotFileLoader.py # Skrypt do ładowania i wstępnego przetwarzania plików źródłowych
 
-CBPBedrockChat.py # Kod głównej funkcji AWS Lambda (backend)
-<br>
-<br>
-<br>
+├── CBPBedrockChat.py # Kod głównej funkcji AWS Lambda (backend)
 
 cbp-strona-chatbot-us/ # Bucket S3 na pliki statycznej strony internetowej
 
-CBP FAQ.pdf # pdf FAQ do wglądu i pobrania
+├── CBP FAQ.pdf # pdf FAQ do wglądu i pobrania
 
-CBP Oferta Kont Osobistych.pdf # pdf oferty kont do wglądu i pobrania
+├── CBP Oferta Kont Osobistych.pdf # pdf oferty kont do wglądu i pobrania
 
-CBP Regulamin.pdf # pdf regulaminu do wglądu i pobrania
+├── CBP Regulamin.pdf # pdf regulaminu do wglądu i pobrania
 
-CBP Tabela Opłat i Prowizji.pdf # pdf z podsumowaniem wszystkich cen
+├── CBP Tabela Opłat i Prowizji.pdf # pdf z podsumowaniem wszystkich cen
 
-CBP_logo.png # Plik z logo banku wykorzystany na stronie
+├── CBP_logo.png # Plik z logo banku wykorzystany na stronie
 
-index.html # Główny plik HTML interfejsu użytkownika
-<br>
-<br>
-<br>
+├── index.html # Główny plik HTML interfejsu użytkownika
 
 README.md # Ten plik
 

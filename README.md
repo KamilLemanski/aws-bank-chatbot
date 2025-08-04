@@ -10,6 +10,7 @@ Sercem systemu jest usługa Amazon Bedrock, która dostarcza zaawansowane modele
 
 Kluczowe komponenty architektury to Amazon S3, Titan Text Embeddings V2, AWS Lambda, Claude 3 Sonnet oraz Amazon API Gateway.
 Chatbot Concept Bank Polska stanowi w pełni funkcjonalny prototyp zautomatyzowanego centrum obsługi klienta, zdolnego do dynamicznego adaptowania się do zmian w ofercie poprzez prostą aktualizację bazy dokumentów.
+Aplikacja została przygotowana w całości w regionie AWS us-east-1 (Northern Virginia).
 
 ------------
 ✨ Właściwości:

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Concept Bank Polska - Chatbot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0a2240;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    /* --- ZMIANY W NAGŁÓWKU --- */
+    header {
+      background-color: #ffffff; /* Białe tło nagłówka */
+      padding: 20px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      border-bottom: 1px solid #e0e0e0; /* Delikatna linia oddzielająca */
+      color: #0a2240; /* Ciemny kolor tekstu na białym tle */
+    }
+
+    header img {
+      height: 80px;
+      margin-right: 20px;
+    }
+
+    header h1 {
+      font-size: 26px;
+      font-weight: 600;
+      margin: 0;
+      color: #0a2240; /* Ciemny kolor tekstu nagłówka */
+    }
+
+    main {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* --- NOWY PANEL MENU (LEWA KOLUMNA) --- */
+    .menu-panel {
+      width: 25%; /* Szerokość lewej kolumny */
+      padding: 20px;
+      background-color: #102b4c;
+      overflow-y: auto;
+      border-right: 1px solid #0f2c4f;
+    }
+    
+    .menu-panel h2 {
+      font-size: 18px;
+      margin-top: 20px;
+      margin-bottom: 12px;
+      color: #fff;
+      padding-bottom: 5px;
+      border-bottom: 1px solid #1a3c63;
+    }
+
+    .menu-panel h2:first-child {
+        margin-top: 0;
+    }
+
+    .menu-panel p {
+        font-size: 14px;
+        line-height: 1.6;
+        text-align: justify;
+    }
+
+    .document-list a {
+      display: block;
+      color: #b3d4ff;
+      margin-bottom: 10px;
+      text-decoration: none;
+      font-size: 15px;
+    }
+
+    .document-list a:hover {
+      text-decoration: underline;
+    }
+
+    /* --- GŁÓWNY PANEL CZATU (PRAWA KOLUMNA) --- */
+	.chat-panel {
+	  flex: 1;
+	  display: flex;
+	  flex-direction: column;
+	  background-color: #f5f7fa;
+	  color: #000;
+	}
+
+	.chat-container {
+	  flex: 1;
+	  display: flex;
+	  flex-direction: column;
+	  height: 100%; 
+	}
+
+	.chat-history {
+	  flex: 1;
+	  padding: 20px;
+	  overflow-y: auto;
+	  border-bottom: 1px solid #ccc;
+	}
+
+    .message {
+      margin-bottom: 15px;
+    }
+
+    .message.user {
+      text-align: right;
+    }
+
+    .message.bot {
+      text-align: left;
+    }
+
+    .message p {
+      display: inline-block;
+      padding: 10px 16px;
+      border-radius: 16px;
+      max-width: 70%;
+    }
+
+    .message.user p {
+      background-color: #0072ce;
+      color: white;
+    }
+
+    .message.bot p {
+      background-color: #e5e7eb;
+    }
+
+    .chat-input {
+      display: flex;
+      padding: 16px;
+      background: #fff;
+    }
+
+    .chat-input input {
+      flex: 1;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+
+    .chat-input button {
+      margin-left: 12px;
+      padding: 12px 20px;
+      background-color: #0072ce;
+      border: none;
+      color: white;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .chat-input button:hover {
+      background-color: #005fa3;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: #bbb;
+      padding: 16px;
+      background-color: #00172d;
+    }
+	
+    .dot {
+      animation: blink 1.4s infinite;
+      font-weight: bold;
+      font-size: 22px;
+    }
+    .dot:nth-child(2) {
+      animation-delay: 0.2s;
+    }
+    .dot:nth-child(3) {
+      animation-delay: 0.4s;
+    }
+    @keyframes blink {
+      0% { opacity: 0.2; }
+      20% { opacity: 1; }
+      100% { opacity: 0.2; }
+    }
+	
+  </style>
+</head>
+<body>
+  <header>
+    <img src="CBP_logo.png" alt="Logo CBP" />
+    <h1>Concept Bank Polska – Twój Zaufany Partner Finansowy</h1>
+  </header>
+
+  <main>
+    <div class="menu-panel">
+      <div style="text-align: justify;">
+        <p>Witamy w nowoczesnym centrum obsługi klienta CBP. Za pośrednictwem tego czatu możesz w szybki i wygodny sposób uzyskać odpowiedzi na pytania dotyczące oferty naszego banku – kont osobistych, kart płatniczych, przelewów krajowych i zagranicznych, a także działania aplikacji mobilnej oraz zasad bezpieczeństwa.</p>
+        <p>Zadaj pytanie w oknie rozmowy, a chatbot wskaże najlepsze rozwiązanie – jasno, zwięźle i zgodnie z aktualną polityką banku.</p>
+        <p>Dzięki CBP Chat zyskujesz wsparcie 24/7, bez konieczności dzwonienia na infolinię czy wizyty w oddziale. Twoje bezpieczeństwo, wygoda i dostęp do informacji są dla nas priorytetem.</p>
+      </div>
+
+      <h2>O Banku:</h2>
+      <div style="text-align: justify;">
+        <p>Concept Bank Polska S.A. został założony w lipcu 2025 roku jako fikcyjna instytucja finansowa, integrująca zaawansowane technologie sztucznej inteligencji z Amazon Web Services. Powstanie banku było częścią projektu AI mającego na celu stworzenie interfejsu chatbota banku, opartego na sztucznej inteligencji i wspierającego klientów w dostępie do informacji o produktach i usługach.</p>
+      </div>
+
+      <h2>Cenniki i regulaminy:</h2>
+      <div class="document-list">
+        <a href="CBP Regulamin.pdf" target="_blank">Regulamin Banku CBP S.A.</a>
+        <a href="CBP Oferta Kont Osobistych.pdf" target="_blank">Oferta kont osobistych</a>
+        <a href="CBP Tabela Opłat i Prowizji.pdf" target="_blank">Tabela Opłat i Prowizji</a>
+        <a href="CBP FAQ.pdf" target="_blank">Najczęstsze Pytania (FAQ)</a>
+      </div>
+    </div>
+
+    <div class="chat-panel">
+      <div class="chat-container">
+        <div class="chat-history" id="chatHistory">
+          <div class="message bot"><p>Witaj w Concept Bank Polska. W czym mogę pomóc?</p></div>
+        </div>
+        <div class="chat-input">
+          <input type="text" id="userInput" placeholder="Napisz wiadomość..." />
+          <button onclick="sendMessage()">Wyślij</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 Concept Bank Polska. Wszelkie prawa zastrzeżone.
+  </footer>
+ 
+  <script>
+    function sendMessage() {
+      const input = document.getElementById('userInput');
+      const message = input.value.trim();
+      if (!message) return;
+
+      const chatHistory = document.getElementById('chatHistory');
+
+      const userMsg = document.createElement('div');
+      userMsg.className = 'message user';
+      userMsg.innerHTML = '<p>' + message + '</p>';
+      chatHistory.appendChild(userMsg);
+      input.value = '';
+	  
+	  //Dodaj animację pisania chatbota
+      const botTyping = document.createElement('div');
+      botTyping.className = 'message bot';
+      botTyping.id = 'typing-indicator';
+      botTyping.innerHTML = '<p><span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></p>';
+      chatHistory.appendChild(botTyping);
+      chatHistory.scrollTop = chatHistory.scrollHeight;
+
+	// Wyślij zapytanie do backendu
+      fetch('https://1y9z5bfr0l.execute-api.us-east-1.amazonaws.com/chat', {
+		  method: 'POST',
+		  headers: {
+			'Content-Type': 'application/json'
+		  },
+		  body: JSON.stringify({ message: message })
+		})
+		.then(response => {
+		  if (!response.ok) {
+			throw new Error(`Błąd HTTP: ${response.status}`);
+		  }
+		  return response.json();
+		})
+		.then(data => {
+		  console.log('Otrzymane dane z backendu:', data);
+		  
+		  //Usuń animację pisania
+		  const typingIndicator = document.getElementById('typing-indicator');
+		  if (typingIndicator) typingIndicator.remove();
+
+		  let botReply = "Brak odpowiedzi";
+
+		  try {
+			if (data?.reply) {
+			  botReply = data.reply;
+			} else {
+			  throw new Error("Brak pola reply w odpowiedzi modelu.");
+			}
+		  } catch (err) {
+			console.error("Błąd przy przetwarzaniu odpowiedzi:", err);
+			botReply = `Błąd odpowiedzi serwera: ${err.message}`;
+		  }
+
+		  const botMsg = document.createElement('div');
+		  botMsg.className = 'message bot';
+		  botMsg.innerHTML = '<p>' + botReply.replace(/\*\*/g, '').replace(/\n/g, '<br>') + '</p>';
+		  chatHistory.appendChild(botMsg);
+		  chatHistory.scrollTop = chatHistory.scrollHeight;
+		})
+		.catch(error => {
+		  console.error('Błąd sieciowy lub krytyczny:', error);
+		  
+		  //Usuń animację pisania również w razie błędu
+          const typingIndicator = document.getElementById('typing-indicator');
+          if (typingIndicator) typingIndicator.remove();
+
+		  const errorMsg = document.createElement('div');
+		  errorMsg.className = 'message bot';
+		  errorMsg.innerHTML = '<p>Wystąpił błąd: ' + error.message + '</p>';
+		  chatHistory.appendChild(errorMsg);
+		  chatHistory.scrollTop = chatHistory.scrollHeight;
+		});
+    }
+	// Umożliwienie wysłania wiadomości po naciśnięciu Enter
+	document.getElementById('userInput').addEventListener('keydown', function (event) {
+	  if (event.key === 'Enter') {
+		event.preventDefault(); // Zapobiega ewentualnemu przeładowaniu formularza
+		sendMessage();
+	  }
+	});
+  </script>
+</body>
+</html>

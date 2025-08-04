@@ -1,0 +1,368 @@
+REGULAMIN OGÓLNY PROWADZENIA RACHUNKÓW BANKOWYCH, KART PŁATNICZYCH ORAZ ŚWIADCZENIA USŁUG BANKOWOŚCI ELEKTRONICZNEJ DLA KLIENTÓW INDYWIDUALNYCH I MIKROPRZEDSIĘBIORSTW W CONCEPT BANK POLSKA S.A.
+
+Data wejścia w życie: 15.07.2025 r.
+
+SPIS TREŚCI:
+Rozdział 1. Postanowienia ogólne i definicje
+Rozdział 2. Rachunki bankowe dla Klientów indywidualnych
+Rozdział 3. Rachunek bankowy dla mikroprzedsiębiorstw
+Rozdział 4. Karty płatnicze
+Rozdział 5. Bankowość elektroniczna i usługi dodatkowe
+Rozdział 6. Zasady oprocentowania środków na rachunkach
+Rozdział 7. Kredyty i pożyczki
+Rozdział 8. Ubezpieczenia
+Rozdział 9. Programy bonusowe
+Rozdział 10. Ochrona danych osobowych
+Rozdział 11. Postępowanie reklamacyjne
+Rozdział 12. Postanowienia końcowe
+
+
+
+Rozdział 1. Postanowienia ogólne i definicje
+
+§ 1. Postanowienia wstępne
+
+Niniejszy „Regulamin ogólny prowadzenia rachunków bankowych, kart płatniczych oraz świadczenia usług bankowości elektronicznej dla Klientów indywidualnych i mikroprzedsiębiorstw w Concept Bank Polska S.A.” (zwany dalej „Regulaminem”) określa zasady otwierania i prowadzenia przez Concept Bank Polska S.A. rachunków bankowych, wydawania i używania kart płatniczych oraz świadczenia usług bankowości elektronicznej.
+
+Regulamin stanowi integralną część Umowy ramowej zawieranej między Klientem a Bankiem.
+
+Bankiem jest Concept Bank Polska Spółka Akcyjna z siedzibą w Warszawie (00-838) przy ul. Innowacyjnej 1, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000987654, NIP: 525-00-12-345, REGON: 012345678, o kapitale zakładowym w wysokości 500 000 000 zł, w całości opłaconym.
+
+Bank podlega nadzorowi Komisji Nadzoru Finansowego.
+
+§ 2. Definicje
+Użyte w Regulaminie określenia oznaczają:
+
+Bank – Concept Bank Polska S.A.
+
+Klient – osoba fizyczna (konsument) lub osoba fizyczna prowadząca jednoosobową działalność gospodarczą (mikroprzedsiębiorca), która zawarła z Bankiem Umowę ramową.
+
+Rachunek – rachunek płatniczy prowadzony przez Bank na rzecz Klienta na podstawie Umowy ramowej, w tym rachunki osobiste i rachunek firmowy.
+
+Karta – karta płatnicza (debetowa lub kredytowa) wydana przez Bank, powiązana z Rachunkiem Klienta, uprawniająca do dokonywania Transakcji.
+
+Bankowość elektroniczna – systemy CBP Online (bankowość internetowa) oraz CBP Mobile (aplikacja mobilna), umożliwiające zdalny dostęp do Rachunku i usług Banku.
+
+Tabela Opłat i Prowizji – dokument określający wysokość opłat i prowizji pobieranych przez Bank za czynności bankowe, stanowiący załącznik do Umowy ramowej.
+
+Okres rozliczeniowy – miesięczny okres, za który Bank nalicza opłaty za prowadzenie Rachunku i obsługę Karty, liczony od pierwszego do ostatniego dnia kalendarzowego miesiąca.
+
+Transakcja – operacja płatnicza, w tym płatność bezgotówkowa, przelew, wypłata lub wpłata gotówki.
+
+BLIK – system płatności mobilnych umożliwiający dokonywanie Transakcji za pomocą kodu generowanego w aplikacji CBP Mobile.
+
+Wpływ – suma bezgotówkowych uznań na Rachunku w danym Okresie rozliczeniowym, z wyłączeniem przelewów z innych rachunków tego samego Klienta w Banku, wpłat własnych oraz zwrotów z transakcji.
+
+
+
+Rozdział 2. Rachunki bankowe dla Klientów indywidualnych
+
+§ 3. Rachunek Concept Basic
+
+Rachunek przeznaczony dla osób fizycznych rozpoczynających korzystanie z usług bankowych.
+
+Opłata za prowadzenie Rachunku wynosi 0 zł w Okresie rozliczeniowym, w którym spełniony został co najmniej jeden z poniższych warunków:
+a) na Rachunek odnotowano Wpływ w łącznej kwocie min. 500 zł;
+b) dokonano co najmniej jednej Transakcji płatniczej za pomocą BLIK.
+
+W przypadku niespełnienia warunków, o których mowa w ust. 2, miesięczna opłata za prowadzenie Rachunku wynosi 9 zł, zgodnie z Tabelą Opłat i Prowizji.
+
+Do Rachunku wydawana jest Karta debetowa Mastercard Standard.
+
+§ 4. Rachunek Concept Plus
+
+Rachunek przeznaczony dla aktywnych Klientów regularnie korzystających z usług bankowych.
+
+Opłata za prowadzenie Rachunku wynosi 0 zł w Okresie rozliczeniowym, w którym spełnione zostały łącznie następujące warunki:
+a) na Rachunek odnotowano Wpływ w łącznej kwocie min. 2 000 zł;
+b) dokonano co najmniej trzech Transakcji bezgotówkowych Kartą debetową powiązaną z Rachunkiem.
+
+W przypadku niespełnienia warunków, o których mowa w ust. 2, miesięczna opłata za prowadzenie Rachunku wynosi 12 zł, zgodnie z Tabelą Opłat i Prowizji.
+
+Do Rachunku wydawana jest Karta debetowa Mastercard Gold.
+
+Posiadacz Rachunku ma możliwość otwarcia Rachunku Oszczędnościowego „Smart Cel” na warunkach określonych w § 14.
+
+§ 5. Rachunek Concept Premium
+
+Rachunek przeznaczony dla Klientów o wysokich wymaganiach, oczekujących usług premium.
+
+Opłata za prowadzenie Rachunku wynosi 0 zł w Okresie rozliczeniowym, w którym na Rachunek odnotowano Wpływ w łącznej kwocie min. 10 000 zł.
+
+W przypadku niespełnienia warunku, o którym mowa w ust. 2, miesięczna opłata za prowadzenie Rachunku wynosi 49 zł, zgodnie z Tabelą Opłat i Prowizji.
+
+Do Rachunku wydawana jest bezpłatna Karta debetowa Mastercard Platinum.
+
+Posiadacz Rachunku ma możliwość otwarcia Rachunku Oszczędnościowego „Smart Cel” na warunkach określonych w § 14.
+
+§ 6. Rachunek Concept Young
+
+Rachunek przeznaczony dla Klientów, którzy nie ukończyli 26. roku życia.
+
+Prowadzenie Rachunku jest bezwarunkowo bezpłatne (0 zł).
+
+Do Rachunku wydawana jest bezpłatna Karta debetowa Mastercard Young.
+
+Po ukończeniu przez Klienta 26. roku życia, Rachunek Concept Young zostaje automatycznie przekształcony w Rachunek Concept Basic, o czym Klient zostanie poinformowany z 30-dniowym wyprzedzeniem.
+
+
+
+Rozdział 3. Rachunek bankowy dla mikroprzedsiębiorstw
+
+§ 7. Rachunek Concept Business Lite
+
+Rachunek przeznaczony dla osób fizycznych prowadzących jednoosobową działalność gospodarczą, freelancerów i startupów.
+
+Opłata za prowadzenie Rachunku wynosi 0 zł w Okresie rozliczeniowym, w którym spełnione zostały łącznie następujące warunki:
+a) na Rachunek odnotowano Wpływ w łącznej kwocie min. 5 000 zł;
+b) dokonano co najmniej dziesięciu Transakcji bezgotówkowych Kartą debetową powiązaną z Rachunkiem.
+
+W przypadku niespełnienia warunków, o których mowa w ust. 2, miesięczna opłata za prowadzenie Rachunku wynosi 19 zł, zgodnie z Tabelą Opłat i Prowizji.
+
+Do Rachunku wydawana jest Karta debetowa Mastercard Business Debit.
+
+
+
+Rozdział 4. Karty płatnicze
+
+§ 8. Karty debetowe
+
+Karta debetowa jest wydawana do Rachunku i umożliwia dokonywanie Transakcji w ciężar środków zgromadzonych na Rachunku.
+
+Karta debetowa Mastercard Standard (dla Rachunku Concept Basic):
+a) Opłata miesięczna za obsługę Karty wynosi 0 zł, pod warunkiem spełnienia warunków zwolnienia z opłaty za prowadzenie Rachunku (§ 3 ust. 2).
+b) W przeciwnym razie opłata wynosi 5 zł miesięcznie.
+
+Karta debetowa Mastercard Gold (dla Rachunku Concept Plus):
+a) Opłata miesięczna za obsługę Karty wynosi 0 zł, pod warunkiem dokonania w Okresie rozliczeniowym co najmniej trzech Transakcji bezgotówkowych Kartą.
+b) W przeciwnym razie opłata wynosi 7 zł miesięcznie.
+c) Karta obejmuje podstawowy pakiet ubezpieczeń podróżnych i ubezpieczenie zakupów. Szczegółowe warunki określa Ogólne Warunki Ubezpieczenia (OWU) dostępne w placówkach Banku i w Bankowości elektronicznej.
+
+Karta debetowa Mastercard Platinum (dla Rachunku Concept Premium):
+a) Obsługa Karty jest bezpłatna (0 zł).
+b) Karta obejmuje rozszerzony pakiet ubezpieczeń oraz usługi concierge. Szczegółowe warunki określa OWU.
+
+Karta debetowa Mastercard Young (dla Rachunku Concept Young):
+a) Obsługa Karty jest bezpłatna (0 zł).
+b) Karta oferuje cashback w wysokości 1% od wartości Transakcji bezgotówkowych, rozliczany miesięcznie i księgowany na Rachunku.
+
+Karta debetowa Mastercard Business Debit (dla Rachunku Concept Business Lite):
+a) Opłata miesięczna za obsługę Karty wynosi 0 zł, pod warunkiem spełnienia warunków zwolnienia z opłaty za prowadzenie Rachunku (§ 7 ust. 2).
+b) W przeciwnym razie opłata wynosi 9 zł miesięcznie.
+
+§ 9. Karty kredytowe
+
+Bank może przyznać Klientowi Kartę kredytową na podstawie odrębnej umowy o kartę kredytową, po dokonaniu oceny zdolności kredytowej Klienta.
+
+Karta kredytowa Classic:
+a) Dostępna dla posiadaczy Rachunku Concept Basic.
+b) Okres bezodsetkowy wynosi do 55 dni.
+c) Opłata roczna za obsługę Karty wynosi 39 zł.
+d) Cashback 1% od transakcji bezgotówkowych.
+
+Karta kredytowa Gold:
+a) Dostępna dla posiadaczy Rachunków Concept Plus i Concept Premium.
+b) Rzeczywista Roczna Stopa Oprocentowania (RRSO) na dzień sporządzenia niniejszego regulaminu wynosi w przybliżeniu 18% (dla Concept Plus) lub 17% (dla Concept Premium). Ostateczna wysokość RRSO jest określona w umowie o kartę.
+c) Opłata roczna za obsługę Karty wynosi 79 zł. Opłata nie jest pobierana w pierwszym roku użytkowania. Dla posiadaczy Rachunku Concept Premium opłata nie jest pobierana, jeśli roczne wydatki Kartą przekroczą 6 000 zł.
+d) Cashback 1,5% oraz udział w programie CBP Benefit. Posiadacze Rachunku Premium dodatkowo gromadzą mile w programie lojalnościowym (2 mile za każde wydane 6 zł).
+
+Karta kredytowa Young:
+a) Dostępna dla posiadaczy Rachunku Concept Young.
+b) RRSO na dzień sporządzenia niniejszego regulaminu wynosi w przybliżeniu 19%.
+c) Brak opłaty rocznej za obsługę Karty.
+
+Karta kredytowa Business:
+a) Dostępna dla posiadaczy Rachunku Concept Business Lite.
+b) RRSO na dzień sporządzenia niniejszego regulaminu wynosi w przybliżeniu 17,5%.
+c) Opłata roczna za obsługę Karty wynosi 99 zł.
+d) Udział w programie CBP Bonus.
+
+§ 10. Wpłaty i wypłaty gotówki
+
+Wpłaty gotówki we wpłatomatach własnych Banku (CBP) są bezpłatne dla wszystkich Rachunków.
+
+Wypłaty gotówki z bankomatów własnych Banku (CBP) są bezpłatne dla wszystkich Rachunków.
+
+Wypłaty z obcych bankomatów na terytorium Polski:
+a) Concept Basic: 2 bezpłatne wypłaty w miesiącu, każda kolejna 2,5% wartości transakcji, min. 5 zł.
+b) Concept Plus: 3 bezpłatne wypłaty w miesiącu, każda kolejna 2% wartości transakcji, min. 5 zł.
+c) Concept Premium: wszystkie wypłaty bezpłatne (0 zł).
+d) Concept Young: wszystkie wypłaty bezpłatne (0 zł).
+e) Concept Business Lite: 5 bezpłatnych wypłat w miesiącu, każda kolejna 2% wartości transakcji, min. 5 zł.
+
+Wypłaty z bankomatów za granicą (w strefie EOG i poza nią):
+a) Concept Basic: 2,5% wartości transakcji, min. 5 zł. Opłata nie jest pobierana, jeśli spełnione są warunki zwolnienia z opłaty za prowadzenie konta.
+b) Concept Plus: 3 bezpłatne wypłaty w miesiącu, każda kolejna 2% wartości transakcji, min. 5 zł.
+c) Concept Premium: wszystkie wypłaty bezpłatne (0 zł).
+d) Concept Young: 3 bezpłatne wypłaty w miesiącu, każda kolejna 2,5% wartości transakcji, min. 5 zł.
+e) Concept Business Lite: 2,5% wartości transakcji, min. 5 zł.
+
+Do transakcji zagranicznych doliczana jest marża Banku za przewalutowanie, zgodnie z Tabelą Opłat i Prowizji, chyba że Klient korzysta z usługi wielowalutowej.
+
+
+
+Rozdział 5. Bankowość elektroniczna i usługi dodatkowe
+
+§ 11. Systemy CBP Online i CBP Mobile
+
+Bank udostępnia Klientom system bankowości internetowej CBP Online oraz aplikację mobilną CBP Mobile.
+
+Dostęp do Bankowości elektronicznej jest bezpłatny.
+
+Funkcjonalności obejmują m.in.: sprawdzanie salda i historii Rachunku, realizację przelewów, zarządzanie zleceniami stałymi i poleceniami zapłaty, zarządzanie limitami i ustawieniami Kart, płatności BLIK, Google Pay, Apple Pay, kantor wymiany walut.
+
+Logowanie i autoryzacja Transakcji zabezpieczone są hasłem, logowaniem biometrycznym (odcisk palca, rozpoznawanie twarzy) oraz dynamicznymi kodami SMS lub autoryzacją w aplikacji mobilnej.
+
+§ 12. Operacje płatnicze
+
+Przelewy krajowe Elixir zlecane w Bankowości elektronicznej: 0 zł.
+
+Przelewy natychmiastowe Express Elixir: 5 zł za każdy przelew.
+
+Przelewy europejskie SEPA (w walucie EUR): 0 zł.
+
+Przelewy zagraniczne SWIFT: 0,5% wartości przelewu (min. 20 zł, max. 250 zł) plus koszty banków pośredniczących i banku odbiorcy.
+
+Ustanowienie, modyfikacja i odwołanie zlecenia stałego oraz polecenia zapłaty w Bankowości elektronicznej: 0 zł.
+
+§ 13. Usługi dodatkowe
+
+Kantor walutowy: dostępny w aplikacji CBP Mobile, umożliwia wymianę walut po kursach aktualizowanych w czasie rzeczywistym.
+
+Program poleceń: Klient, który skutecznie poleci usługi Banku nowemu Klientowi (skutkujące zawarciem Umowy ramowej), otrzymuje premię w wysokości 100 zł. Szczegółowe warunki określa odrębny regulamin promocji.
+
+
+
+Rozdział 6. Zasady oprocentowania środków na rachunkach
+
+§ 14. Rachunek Oszczędnościowy „Smart Cel”
+
+Dostępny dla posiadaczy Rachunków Concept Plus i Concept Premium jako subkonto oszczędnościowe.
+
+Umożliwia aktywację funkcji automatycznego oszczędzania, polegającej na zaokrąglaniu kwot Transakcji bezgotówkowych Kartą w górę do pełnej kwoty (np. 1 zł, 5 zł, 10 zł) i przekazywaniu nadwyżki na Rachunek „Smart Cel”.
+
+Oprocentowanie środków na Rachunku „Smart Cel” jest zmienne i wynosi:
+a) Dla posiadaczy Rachunku Concept Plus: 4,0% w skali roku dla salda do 5 000 zł. Dla nadwyżki ponad 5 000 zł oprocentowanie wynosi 1,0% w skali roku.
+b) Dla posiadaczy Rachunku Concept Premium: 4,0% w skali roku dla salda do 30 000 zł. Dla nadwyżki ponad 30 000 zł oprocentowanie wynosi 1,5% w skali roku.
+
+Kapitalizacja odsetek następuje na koniec każdego miesiąca kalendarzowego.
+
+Pozostałe rachunki bieżące nie są oprocentowane, chyba że odrębna umowa stanowi inaczej.
+
+
+
+Rozdział 7. Kredyty i pożyczki
+
+§ 15. Oferta kredytowa
+
+Bank oferuje Klientom kredyty gotówkowe, kredyty hipoteczne oraz inne produkty kredytowe.
+
+Szczegółowe warunki udzielania kredytów, w tym wysokość oprocentowania, prowizji oraz RRSO, określane są w odrębnych umowach kredytowych oraz regulaminach produktowych.
+
+Oprocentowanie kredytów o zmiennej stopie procentowej oparte jest o stawkę referencyjną WIBOR powiększoną o stałą marżę Banku.
+
+
+
+Rozdział 8. Ubezpieczenia
+
+§ 16. Pakiety ubezpieczeniowe
+
+Bank, we współpracy z partnerami ubezpieczeniowymi, oferuje pakiety ubezpieczeń powiązane z wybranymi produktami (np. Karty Gold i Platinum) lub dostępne jako produkty samodzielne.
+
+Zakres ubezpieczenia obejmuje m.in. ubezpieczenie w podróży zagranicznej, ubezpieczenie zakupów, assistance.
+
+Szczegółowe warunki, zakres ochrony oraz wyłączenia odpowiedzialności ubezpieczyciela zawarte są w Ogólnych Warunkach Ubezpieczenia (OWU) udostępnianych Klientowi przed zawarciem umowy ubezpieczenia.
+
+
+
+Rozdział 9. Programy bonusowe
+
+§ 17. Regulamin Programu Lojalnościowego „CBP Benefit”
+
+Program przeznaczony jest dla posiadaczy Rachunków Concept Plus i Concept Premium oraz użytkowników Karty kredytowej Gold.
+
+Uczestnictwo w Programie jest dobrowolne i bezpłatne.
+
+Zasady naliczania punktów:
+a) 1 punkt za każde 5 zł wydane Kartą kredytową Gold w transakcji bezgotówkowej.
+b) 5 punktów za opłacenie rachunku (faktury) za pośrednictwem Bankowości elektronicznej.
+c) 10 punktów za ustanowienie nowego zlecenia stałego.
+d) 100 punktów za skuteczne polecenie konta nowemu Klientowi.
+e) od 2 do 4 punktów za każde 5 zł wydane u partnerów Programu (lista partnerów dostępna w Bankowości elektronicznej).
+f) 25 punktów (jednorazowo) za aktywację funkcji oszczędzania „Smart Cel”.
+
+Wymiana punktów na nagrody:
+a) Voucher o wartości 50 zł do Allegro/Empik – 500 punktów.
+b) Zwrot 100% opłaty rocznej za Kartę kredytową Gold – 800 punktów.
+c) Miesięczny pakiet ubezpieczenia podróżnego – 300 punktów.
+d) Premia gotówkowa 20 zł na Rachunek – 400 punktów.
+e) Zniżki u partnerów (np. FlixBus, Booking.com, Multikino) – od 150 punktów.
+
+Punkty są ważne przez 24 miesiące od daty ich naliczenia. Niewykorzystane punkty wygasają.
+
+§ 18. Regulamin Programu Lojalnościowego „CBP Bonus”
+
+Program przeznaczony jest dla posiadaczy Rachunku Concept Business Lite oraz użytkowników Karty kredytowej Business.
+
+Zasady naliczania punktów:
+a) 2 punkty za każde 10 zł wydane Kartą Business w transakcji bezgotówkowej.
+b) 10 punktów za wystawienie faktury za pośrednictwem zintegrowanej usługi e-fakturowania w Bankowości elektronicznej.
+c) 5 punktów za opłacenie składek ZUS lub podatku do Urzędu Skarbowego online.
+d) 7 punktów za ustanowienie nowego zlecenia stałego do kontrahenta.
+e) 50 punktów (jednorazowo) za integrację Rachunku z zewnętrznym systemem księgowym (np. wFirma, iFirma, Fakturownia).
+f) 150 punktów za skuteczne polecenie Rachunku firmowego nowemu Klientowi.
+
+Wymiana punktów na nagrody:
+a) Premia pieniężna 50 zł na Rachunek firmowy – 600 punktów.
+b) Zniżka 50% na opłatę roczną za Kartę kredytową Business – 500 punktów.
+c) Dostęp do webinaru z ekspertem podatkowym (1 godzina) – 200 punktów.
+d) Pakiet faktur elektronicznych PRO na 6 miesięcy – 400 punktów.
+e) Dostęp do darmowego audytu cyberbezpieczeństwa firmy – 800 punktów.
+
+Punkty są ważne przez 24 miesiące od daty ich naliczenia. Niewykorzystane punkty wygasają.
+
+
+
+Rozdział 10. Ochrona danych osobowych
+
+§ 19. Przetwarzanie danych
+
+Administratorem danych osobowych Klientów jest Bank.
+
+Dane osobowe przetwarzane są w celu zawarcia i wykonania Umowy ramowej, wypełnienia obowiązków prawnych ciążących na Banku (np. wynikających z ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu), a także w celach wynikających z prawnie uzasadnionych interesów realizowanych przez Bank.
+
+Klientowi przysługuje prawo dostępu do treści swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do przenoszenia danych oraz prawo wniesienia sprzeciwu wobec przetwarzania.
+
+Szczegółowe informacje na temat przetwarzania danych osobowych znajdują się w „Informacji o przetwarzaniu danych osobowych przez Concept Bank Polska S.A.” dostępnej na stronie internetowej Banku oraz w placówkach.
+
+
+
+Rozdział 11. Postępowanie reklamacyjne
+
+§ 20. Składanie i rozpatrywanie reklamacji
+
+Klient ma prawo do złożenia reklamacji dotyczącej usług świadczonych przez Bank.
+
+Reklamację można złożyć:
+a) pisemnie – w dowolnej placówce Banku lub przesyłką pocztową na adres siedziby Banku;
+b) ustnie – telefonicznie za pośrednictwem infolinii Banku lub osobiście w placówce Banku;
+c) elektronicznie – za pośrednictwem formularza w Bankowości elektronicznej lub e-mailem na dedykowany adres.
+
+Bank rozpatruje reklamację i udziela odpowiedzi bez zbędnej zwłoki, nie później jednak niż w terminie 15 dni roboczych od dnia jej otrzymania. W szczególnie skomplikowanych przypadkach termin ten może zostać wydłużony do 35 dni roboczych.
+
+W przypadku nieuwzględnienia roszczeń Klienta, ma on możliwość zwrócenia się o pomoc do Rzecznika Finansowego lub wystąpienia z powództwem do sądu powszechnego.
+
+
+
+Rozdział 12. Postanowienia końcowe
+
+§ 21. Zmiany Regulaminu
+
+Bank jest uprawniony do zmiany niniejszego Regulaminu z ważnych przyczyn, takich jak zmiana przepisów prawa, wprowadzenie nowych produktów lub usług, zmiany technologiczne lub względy bezpieczeństwa.
+
+O planowanej zmianie Regulaminu Bank informuje Klienta co najmniej na 2 miesiące przed datą jej wejścia w życie, udostępniając treść zmian na trwałym nośniku (np. w Bankowości elektronicznej lub e-mailem).
+
+Klient ma prawo, przed proponowaną datą wejścia w życie zmian, wypowiedzieć Umowę ramową ze skutkiem natychmiastowym bez ponoszenia opłat. Brak sprzeciwu ze strony Klienta oznacza akceptację zmian.
+
+§ 22. Wejście w życie
+Regulamin wchodzi w życie z dniem 15 lipca 2025 roku.

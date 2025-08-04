@@ -24,6 +24,7 @@ Chatbot został w pełni wykonany z narzędzi Amazon Web Services: S3, AWS Lambd
 
 ------------
 🧪 Zastosowane technologie:
+
 Amazon S3: Hosting statycznej strony internetowej (frontend) oraz przechowywanie dokumentów bazowych dla AI.
 
 AWS Lambda: Backend aplikacji (logika przetwarzania zapytań użytkownika).
@@ -42,6 +43,7 @@ Google Gemini 2.5 Pro: do stworzenia grafiki logo banku.
 
 ------------
 🧠 Architektura Aplikacji:
+
 Aplikacja działa w modelu serwerless, gdzie poszczególne usługi AWS odpowiadają za konkretne zadania, tworząc spójny i wydajny system RAG (Retrieval-Augmented Generation).
 
 Frontend (S3): Użytkownik wprowadza zapytanie w interfejsie webowym aplikacji hostowanej na Amazon S3.
@@ -63,24 +65,43 @@ https://cbp-strona-chatbot-us.s3.us-east-1.amazonaws.com/index.html
 📂 Struktura plików:
 
 chatbot-concept-bank-polska/
-├── cbp-chatbot-data-us/       # Bucket S3 na dane przetwarzane przez AI         
+
+├── cbp-chatbot-data-us/       # Bucket S3 na dane przetwarzane przez AI       
+
 │   ├── CBP_chunks_all.json    # Plik z dokumentacją banku podzieloną na małe fragmenty (chunki)
+
 │   ├── CBP_chunks+embedded.json  # Chunks z dodanymi do nich wektorami numerycznymi (embeddings)
+
 │   ├── CBP_FAQ.txt            # Wersja tekstowa dokumentu FAQ do przetwarzania
+
 │   ├── CBP_Oferta_kont_Osobistych.txt  # Wersja tekstowa oferty do przetwarzania
+
 │   ├── CBP_Regulamin.txt      # Wersja tekstowa regulaminu do przetwarzania
+
 │
+
 ├── lambda/
+
 │   ├── GenerateCBPEmbeddings.py  # Skrypt do generowania wektorów (embeddings) z chunków tekstowych
+
 │   ├── CBPChatbotFileLoader.py   # Skrypt do ładowania i wstępnego przetwarzania plików źródłowych
+
 │   └── CBPBedrockChat.py         # Kod głównej funkcji AWS Lambda (backend)
+
 │
-├── cbp-strona-chatbot-us/     # Bucket S3 na pliki statycznej strony internetowej                 
+
+├── cbp-strona-chatbot-us/     # Bucket S3 na pliki statycznej strony internetowej 
+
     ├── CBP FAQ.pdf            # pdf FAQ do wglądu i pobrania
+    
     ├── CBP Oferta Kont Osobistych.pdf # pdf oferty kont do wglądu i pobrania
+    
     ├── CBP Regulamin.pdf      # pdf regulaminu do wglądu i pobrania
+    
     ├── CBP Tabela Opłat i Prowizji.pdf #pdf z podsumowaniem wszystkich cen
+    
     ├── CBP_logo.png            # Plik z logo banku wykorzystany na stronie
+    
     └── index.html              # Główny plik HTML interfejsu użytkownika
 
 ------------
@@ -113,10 +134,12 @@ Poczekaj chwilę na odpowiedź. Chatbot przeanalizuje Twoje pytanie i wygeneruje
 
 ------------
 📝 Licencja:
+
 © 2025 Kamil Lemański. Projekt stworzony w celach edukacyjnych i demonstracyjnych.
 
 ------------
 🙏 Credits:
+
 Amazon Web Services:
 S3, Lambda, Amazon, Bedrock, API Gateway, Claude 3 Sonnet, Titan Text Embeddings V2
 Google Gemini 2.5 Pro

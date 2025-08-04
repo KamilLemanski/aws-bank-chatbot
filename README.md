@@ -113,6 +113,11 @@ CBP Tabela Opłat i Prowizji.pdf # pdf z podsumowaniem wszystkich cen
 CBP_logo.png # Plik z logo banku wykorzystany na stronie
 
 index.html # Główny plik HTML interfejsu użytkownika
+<br>
+<br>
+<br>
+
+README.md # Ten plik
 
 ------------
 ☁️ Wdrożenie aplikacji na platformie AWS w skrócie (10 kroków):

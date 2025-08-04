@@ -79,7 +79,6 @@ chatbot-concept-bank-polska/
    ├── CBP_Regulamin.txt          # Wersja tekstowa regulaminu do przetwarzania
 
 
-
 ├── lambda/
 
    ├── GenerateCBPEmbeddings.py      # Skrypt do generowania wektorów (embeddings) z chunków tekstowych
@@ -87,7 +86,6 @@ chatbot-concept-bank-polska/
    ├── CBPChatbotFileLoader.py       # Skrypt do ładowania i wstępnego przetwarzania plików źródłowych
 
    └── CBPBedrockChat.py             # Kod głównej funkcji AWS Lambda (backend)
-
 
 
 ├── cbp-strona-chatbot-us/         # Bucket S3 na pliki statycznej strony internetowej 
